@@ -1,3 +1,4 @@
-experiment,time_sec,epochs,device
-Baseline CPU,20022.62366963625,1,cpu
-GPU Optimization,251.91728448867798,1,cuda
+experiment,time_sec,epochs,device,accuracy
+Baseline CPU,20022.62366963625,1,cpu,
+GPU Optimization,251.917284488678,1,cuda,
+Transfer Learning (Auto-Target),636.030168056488,Auto-Stop,cuda,80.0

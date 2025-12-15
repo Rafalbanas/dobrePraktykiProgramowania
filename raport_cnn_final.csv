@@ -1,0 +1,9 @@
+Kategoria,Czas (s),Dokładność (%),Szczegóły
+Baseline,3972.83,0.0,CPU (Estymacja czasu)
+Baseline,53.37,36.15,GPU (ResNet50)
+Struktura,42.12,36.95,resnet50
+Struktura,53.59,36.77,vgg16
+Struktura,43.58,31.0,mobilenet
+Struktura,72.21,47.98,densenet
+Transfer Learning,414.58,79.9,Pretrained (Frozen Weights)
+Normalizacja,34.41,35.11,BEZ Normalizacji
