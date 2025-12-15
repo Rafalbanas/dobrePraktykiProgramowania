@@ -1,0 +1,3 @@
+experiment,time_sec,epochs,device
+Baseline CPU,20022.62366963625,1,cpu
+GPU Optimization,251.91728448867798,1,cuda
